@@ -1,0 +1,123 @@
+.Fundo{
+  background: #000000;
+background: linear-gradient(150deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 16%, rgba(0, 0, 0, 1) 28%, rgba(0, 0, 0, 1) 44%, rgba(0, 0, 0, 1) 51%, rgba(0, 0, 0, 1) 72%, rgba(0, 0, 0, 1) 83%, rgba(253, 45, 128, 1) 100%);;;
+    width: 100vw;
+    height: 100vh;
+    margin-left: calc(-50vw + 50%);
+}
+#nome{
+    font-size: 50px;
+    top: 50px;
+    left: 50%;
+    transform: translate(35%, 400px);
+    color: whitesmoke;
+}
+#nome-desv{
+    font-size: large;
+    top: 50px;
+    left: 50%;
+    transform: translate(38%, 400px);
+    color: #fff;
+}
+.imageAboutPage{
+   width: 100%;
+}
+.nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+#about-1{
+   background: #000000;
+background: linear-gradient(23deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 16%, rgba(0, 0, 0, 1) 28%, rgba(0, 0, 0, 1) 44%, rgba(0, 0, 0, 1) 51%, rgba(0, 0, 0, 1) 72%, rgba(0, 0, 0, 1) 83%, rgba(253, 45, 128, 1) 100%);;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    
+} 
+#Sobre-mim{
+ color: white !important;
+    font-size: 20px;
+}
+#L{
+    color: #ffffff;
+    
+}
+#L:hover{
+    color: #ff2d80 ;
+}
+#U:hover{
+    color: #ff2d80 ;
+}
+#I:hover{
+    color: #ff2d80 ;
+
+}
+#S:hover{
+    color: #ff2d80 ;
+
+}
+
+#M:hover{
+    color: #ff2d80 ;
+}
+#i:hover{
+    color: #ff2d80 ;
+}
+#G:hover{
+    color: #ff2d80 ;
+}
+#U:hover{
+    color: #ff2d80 ;
+}
+#E:hover{
+    color: #ff2d80 ;
+}
+#L:hover{
+    color: #ff2d80 ;
+}
+.portifolio{
+ background: #000000;
+ padding-top: 6rem;
+
+}
+#proj{
+    color: white !important;
+   
+}
+/* section title case must match HTML */
+.Contato, .contato {
+    background-color: black;
+    padding-top: 6rem;
+    
+    overflow: hidden;
+}
+
+/* make portfolio cards the same height and crop images */
+.portifolio .card-img-top {
+    height: 200px;          /* adjust as needed */
+    object-fit: cover;
+}
+
+#ctt{
+    color: white !important;
+    padding-bottom: 18px;
+}
+
+
+
+.navbarScroll.navbarDark{
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom:1rem; ;
+}
+.fab{
+    color: white;
+    font-size: 30px;
+    padding: 0 10px;
+}
